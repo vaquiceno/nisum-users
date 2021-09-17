@@ -145,3 +145,8 @@ Si el correo ya esta registrado, retorna:
   "mensaje": "El correo ya registrado"
 }
 ```
+
+### insert base de datos H2
+
+Se utilizo H2 como banco de datos, los inserts para crear los registros iniciales estan en el archivo
+/src/main/resources/data.sql
